@@ -7,10 +7,10 @@ main:
     url: /#top
     weight: 10
   - name: Data
-    url: /#data
+    url: /#features
     weight: 20
   - name: Model
-    url: /#model
+    url: /#solutions
     weight: 30
   - name: About
     weight: 40

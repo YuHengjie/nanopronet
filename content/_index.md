@@ -59,9 +59,9 @@ sections:
       spacing:
         padding: ["1rem", 0, "1rem", 0]
   - block: data
-    id: data
+    id: features
     content:
-      title: Data
+      title: Features
       text: Build your site with blocks 🧱
       items:
         - name: Optimized SEO
@@ -83,7 +83,7 @@ sections:
           icon: rectangle-group
           description: Build your pages with blocks - no coding required!
   - block: cta-image-paragraph
-    id: model
+    id: solutions
     content:
       items:
         - title: Build your future-proof website
