@@ -20,7 +20,7 @@ sections:
         text: Read the docs
         url: https://docs.hugoblox.com
       announcement:
-        text: "Pre-trained foundation model for fine-tuning. "
+        text: "Pre-trained foundation model for fine-tuning"
         link:
           text: "Read more"
           url: "/blog/"
@@ -58,7 +58,7 @@ sections:
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
-  - block: data
+  - block: features
     id: features
     content:
       title: Features
