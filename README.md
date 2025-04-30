@@ -1,4 +1,4 @@
-# NanoProNet （nanopronet.com）
+# NanoProNet
 
 **An “ImageNet” dataset for protein corona research**
 
