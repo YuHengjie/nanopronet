@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2025-04-30
 type: landing
 
 design:
@@ -10,8 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: An "ImageNet" dataset for protein corona research!
+      text: 🧱 2.76 M annotated nanomaterial–protein samples  🧱
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/
@@ -20,7 +20,7 @@ sections:
         text: Read the docs
         url: https://docs.hugoblox.com
       announcement:
-        text: "Announcing the release of version 1."
+        text: "Pre-trained foundation model for fine-tuning. "
         link:
           text: "Read more"
           url: "/blog/"
@@ -58,10 +58,10 @@ sections:
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
-  - block: features
-    id: features
+  - block: data
+    id: data
     content:
-      title: Features
+      title: Data
       text: Build your site with blocks 🧱
       items:
         - name: Optimized SEO
@@ -83,7 +83,7 @@ sections:
           icon: rectangle-group
           description: Build your pages with blocks - no coding required!
   - block: cta-image-paragraph
-    id: solutions
+    id: model
     content:
       items:
         - title: Build your future-proof website
