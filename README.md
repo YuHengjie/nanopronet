@@ -1,10 +1,10 @@
 # NanoProNet
 
-**An “ImageNet” dataset for protein corona research**
+**An “ImageNet” dataset for protein corona research!**
 
 ---
 
-NanoProNet is a foundational dataset and baseline model for nanomaterial–protein interaction research.  
+NanoProNet is the largest public dataset and foudation model for nanomaterial–protein interaction research.  
 It enables both **binary classification** (affinity vs. non-affinity) and **regression prediction** of **relative protein abundance (RPA)**.
 
 ---
@@ -33,5 +33,5 @@ The website consists of four main pages:
 
 ## 🚀 Get Started
 
-This project includes a static website structure that can be deployed via GitHub Pages.
-
+This project includes a static website structure that can be deployed via GitHub Pages.  
+The original template was forked and modified from [Hugo Academic CV by HugoBlox](https://github.com/HugoBlox/theme-academic-cv).  
