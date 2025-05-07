@@ -59,7 +59,7 @@ sections:
       spacing:
         padding: ["1rem", 0, "1rem", 0]
   - block: features
-    id: features
+    id: data
     content:
       title: Features
       text: "AI at the Forefront: Empowering Nanomaterial-Protein Interaction Research 🤖"
@@ -83,7 +83,7 @@ sections:
           icon: rectangle-group
           description: This will drive progress in protein corona research, positioning it as a vital component in the rapidly evolving field of AI for Science.
   - block: cta-image-paragraph
-    id: solutions
+    id: model
     content:
       items:
         - title: Build your future-proof website
