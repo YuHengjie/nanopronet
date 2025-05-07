@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: An "ImageNet" dataset for protein corona research!
-      text: 🧱 2.76 M annotated nanomaterial–protein samples  🧱
+      text: 📌 2.76 M annotated nanomaterial–protein samples  📌
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/
@@ -52,10 +52,6 @@ sections:
           description: |
             Nanomaterial, incubation  
             & separation parameters
-        - statistic: "4"
-          description: |
-            Protein corona  
-            foundation models
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
@@ -69,7 +65,7 @@ sections:
       text: "AI at the Forefront: Empowering Nanomaterial-Protein Interaction Research 🤖"
       items:
         - name: Largest public dataset
-          icon: magnifying-glass
+          icon: circle-stack
           description: Over 2.76 million annotated nanomaterial–protein interaction samples and 33k unique proteins to advance research and model training.
         - name: Support generalizable predictions
           icon: bolt
@@ -78,7 +74,7 @@ sections:
           icon: sparkles
           description: Researchers with a basic machine learning background can easily follow the detailed guidelines and clear usage instructions provided.
         - name: High predictive performance
-          icon: code-bracket
+          icon: presentation-chart-bar
           description: The model is capable of accurate base predictions, handling predictions with missing feature information effectively, and generalizing reliably to unseen data.
         - name: Adaptable with fine-tuning
           icon: star
@@ -122,7 +118,7 @@ sections:
       title: ""
       text: ""
       items:
-        - name: "Hugo Smith"
+        - name: "Hengjie Yu"
           role: "Marketing Executive at X"
           # Upload image to `assets/media/` and reference the filename here
           image: "testimonial-1.jpg"
