@@ -1,7 +1,7 @@
 ---
 title: "Data"
 date: 2025-05-07
-type: page
+type: landing
 ---
 
 ## Welcome to the Data Page
