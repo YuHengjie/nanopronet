@@ -122,22 +122,23 @@ sections:
           role: "Postdoc at Westlake University"
           # Upload image to `assets/media/` and reference the filename here
           image: "hjyu.jpg"
-          text: "We anticipate that this dataset and foundation model will significantly advance protein corona research, driving its rapid adoption within nanomedicine research and its broader application in other fields!"
-        - name: "Hengjie Yu"
-          role: "Postdoc at Westlake University"
+          text: "We hope this dataset and model accelerate AI-driven protein corona research and its nanomedicine and broader applications!"
+        - name: "Yaochu Jin"
+          role: "Chair Professor of AI at Westlake University"
           # Upload image to `assets/media/` and reference the filename here
-          image: "hjyu.jpg"
+          image: "ycjin.jpg"
+          text: "We are committed to application-driven, trustworthy AI research, exploring its broad applications in industry, science, and art."
     design:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
   - block: cta-card
     content:
-      title: Build your future-proof website
+      title: Deploying the foundation model or fine-tuning for specific applications
       text: As easy as 1, 2, 3!
       button:
         text: Get Started
-        url: https://hugoblox.com/templates/
+        url: https://github.com/YuHengjie/nanopronet-public
     design:
       card:
         # Card background color (CSS class)
