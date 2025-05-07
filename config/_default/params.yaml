@@ -39,9 +39,9 @@ header:
       filename: "logo.svg"
     button:
       enable: true
-      text: "Get Started"
+      text: "Github"
       url: "https://github.com/YuHengjie/nanopronet"
-    show_search: true
+    #show_search: true
     show_theme_chooser: true
 
 # Site footer
