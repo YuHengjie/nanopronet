@@ -40,18 +40,22 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "1M+"
+        - statistic: "2.76M+"
           description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
+            Nanomaterial–protein 
+            samples
+        - statistic: "33k+"
           description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
+            Number of 
+            unique proteins
+        - statistic: "28"
           description: |
-            Discord community  
-            for support
+            Nanomaterial, incubation  
+            & separation parameters
+        - statistic: "4"
+          description: |
+            Protein corona  
+            foundation models
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
@@ -62,26 +66,26 @@ sections:
     id: features
     content:
       title: Features
-      text: Build your site with blocks 🧱
+      text: "AI at the Forefront: Empowering Nanomaterial-Protein Interaction Research 🤖"
       items:
-        - name: Optimized SEO
+        - name: Largest public dataset
           icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
+          description: Over 2.76 million annotated nanomaterial–protein interaction samples and 33k unique proteins to advance research and model training.
+        - name: Support generalizable predictions
           icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
+          description: The use of universal text and protein language models supports generalized prediction on unseen samples and proteins.
+        - name: Easy to use
           icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
+          description: Researchers with a basic machine learning background can easily follow the detailed guidelines and clear usage instructions provided.
+        - name: High predictive performance
           icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
+          description: The model is capable of accurate base predictions, handling predictions with missing feature information effectively, and generalizing reliably to unseen data.
+        - name: Adaptable with fine-tuning
           icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
+          description: Serving as a foundation model, it can be fine-tuned to specific applications, improving its ability to learn from few examples.
+        - name: Active research community
           icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+          description: This will drive progress in protein corona research, positioning it as a vital component in the rapidly evolving field of AI for Science.
   - block: cta-image-paragraph
     id: solutions
     content:
