@@ -96,7 +96,7 @@ sections:
           role: "Chair Professor of AI at Westlake University"
           # Upload image to `assets/media/` and reference the filename here
           image: "ycjin.jpg"
-          text: "We are committed to application-driven, trustworthy AI research, exploring its broad applications in industry, science, and art."
+          text: "We are committed to application-driven and trustworthy AI research, exploring its broad applications in industry, science, and art."
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
