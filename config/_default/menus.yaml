@@ -7,14 +7,14 @@ main:
     url: /
     weight: 10
   - name: Data
-    url: /data
+    url: /data/
     weight: 20
   - name: Model
-    url: /model
+    url: /model/
     weight: 30
   - name: About
-    url: /about
+    url: /about/
     weight: 40
   - name: Articles
-    url: /articles
+    url: /articles/
     weight: 50
