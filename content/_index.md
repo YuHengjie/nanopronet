@@ -13,8 +13,8 @@ sections:
       title: 'NanoProNet: An "ImageNet" dataset for protein corona research!'
       text: 📌 2.76 M annotated nanomaterial–protein samples  📌
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: Download dataset
+        url: /data/
         icon: rocket-launch
       secondary_action:
         text: Read the docs

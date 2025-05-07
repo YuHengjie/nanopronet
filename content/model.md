@@ -1,5 +1,5 @@
 ---
-title: "Data"
+title: "About"
 date: 2025-05-07
 type: landing
 
@@ -40,3 +40,4 @@ sections:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
 ---
+

@@ -10,11 +10,10 @@ main:
     url: /data/
     weight: 20
   - name: Model
-    url: /#model
+    url: /model/
     weight: 30
-  - name: About
+  - name: /about/
     weight: 40
-    hasChildren: true
   - parent: Resources
     name: Blog
     url: blog/
