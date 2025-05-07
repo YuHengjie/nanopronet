@@ -98,6 +98,8 @@ sections:
           image: "ycjin.jpg"
           text: "We are committed to application-driven, trustworthy AI research, exploring its broad applications in industry, science, and art."
     design:
+      # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-900"
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
@@ -111,6 +113,6 @@ sections:
     design:
       card:
         # Card background color (CSS class)
-        css_class: "bg-primary-700"
+        css_class: "bg-primary-300"
         css_style: ""
 ---

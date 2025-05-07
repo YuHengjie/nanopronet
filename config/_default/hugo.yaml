@@ -13,7 +13,7 @@ baseURL: 'https://example.com/' # Website URL
 cascade:
   # Article post options
   - _target:
-      path: /article/**
+      path: /articles/**
       kind: page
     pager: true
     editable: true
@@ -30,7 +30,7 @@ cascade:
         enable: true
   # Article section options
   - _target:
-      path: /article/*
+      path: /articles/*
       kind: section
     # Set the listing view
     view: date-title-summary
