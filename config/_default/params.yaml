@@ -26,6 +26,8 @@ marketing:
     google: ''
     baidu: ''
 
+favicon: "/favicon.ico"
+
 # Site header
 header:
   navbar:
