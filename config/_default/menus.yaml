@@ -4,10 +4,10 @@
 
 main:
   - name: Home
-    url: /#top
+    url: /#home
     weight: 10
   - name: Data
-    url: /#data
+    url: /data/
     weight: 20
   - name: Model
     url: /#model
