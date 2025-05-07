@@ -12,7 +12,8 @@ main:
   - name: Model
     url: /model/
     weight: 30
-  - name: /about/
+  - name: About
+    url: /about/
     weight: 40
   - parent: Resources
     name: Blog
