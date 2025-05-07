@@ -11,9 +11,9 @@ baseURL: 'https://example.com/' # Website URL
 ############################
 
 cascade:
-  # Blog post options
+  # Article post options
   - _target:
-      path: /blog/**
+      path: /article/**
       kind: page
     pager: true
     editable: true
@@ -23,14 +23,14 @@ cascade:
     commentable: true
     show_related: true
     share: true
-    # Just use Breadcrumb for navigation on blog post pages?
+    # Just use Breadcrumb for navigation on article post pages?
     show_breadcrumb: false
     header:
       navbar:
         enable: true
-  # Blog section options
+  # Article section options
   - _target:
-      path: /blog/*
+      path: /article/*
       kind: section
     # Set the listing view
     view: date-title-summary
