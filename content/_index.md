@@ -102,7 +102,7 @@ sections:
       css_class: "bg-gray-100 dark:bg-gray-900"
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
-        padding: ["6rem", 0, 0, 0]
+        padding: ["1rem", 0, 0, 0]
   - block: cta-card
     content:
       title: Deploying the foundation model or fine-tuning for specific applications
