@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    description: ''
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -40,14 +40,14 @@ header:
     button:
       enable: true
       text: "Get Started"
-      url: "https://hugoblox.com/templates/"
+      url: "https://github.com/YuHengjie/nanopronet"
     show_search: true
     show_theme_chooser: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: '© {year} Authors'
 
 # Localization
 locale:
