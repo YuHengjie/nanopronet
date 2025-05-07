@@ -123,11 +123,10 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: "hjyu.jpg"
           text: "We anticipate that this dataset and foundation model will significantly advance protein corona research, driving its rapid adoption within nanomedicine research and its broader application in other fields!"
-        - name: "Hengjie Yu"
+          name: "Hengjie Yu"
           role: "Postdoc at Westlake University"
           # Upload image to `assets/media/` and reference the filename here
           image: "hjyu.jpg"
-          text: "We anticipate that this dataset and foundation model will significantly advance protein corona research, driving its rapid adoption within nanomedicine research and its broader application in other fields!"
     design:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
