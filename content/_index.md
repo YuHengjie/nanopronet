@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: An "ImageNet" dataset for protein corona research!
+      title: 'NanoProNet: An "ImageNet" dataset for protein corona research!'
       text: 📌 2.76 M annotated nanomaterial–protein samples  📌
       primary_action:
         text: Get Started

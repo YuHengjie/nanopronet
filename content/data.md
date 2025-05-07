@@ -7,9 +7,6 @@ design:
   # Default section spacing
   spacing: "6rem"
 
-## Welcome to the Data Page
-This page provides all the relevant information about the data.
-
 sections:
   - block: cta-image-paragraph
     #id: model
@@ -44,3 +41,5 @@ sections:
       css_class: "bg-gray-100 dark:bg-gray-900"
 ---
 
+## Welcome to the Data Page
+This page provides all the relevant information about the data.
