@@ -26,8 +26,8 @@ sections:
           url: "/blog/"
     design:
       spacing:
-        padding: [2rem, 2rem, 2rem, 2rem]  # 为容器添加内边距
-        margin: [0, auto, 0, auto]  # 自动居中
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
