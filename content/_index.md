@@ -23,7 +23,7 @@ sections:
         text: "Pre-trained foundation model for fine-tuning"
         link:
           text: "Read more"
-          url: "/model/"
+          url: /model/
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -44,7 +44,7 @@ sections:
           description: |
             Nanomaterial–protein  
             samples
-        - statistic: "33k+"
+        - statistic: "33.7k+"
           description: |
             Number of  
             unique proteins

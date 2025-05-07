@@ -1,3 +1,4 @@
 ---
-title: Related articles (continuously updated)
+title: Related articles
+css_class: center-title
 ---
