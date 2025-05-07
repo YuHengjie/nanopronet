@@ -84,7 +84,7 @@ sections:
           description: This will drive progress in protein corona research, positioning it as a vital component in the rapidly evolving field of AI for Science.
   - block: testimonials
     content:
-      title: ""
+      title: "From the authors"
       text: ""
       items:
         - name: "Hengjie Yu"
@@ -113,6 +113,6 @@ sections:
     design:
       card:
         # Card background color (CSS class)
-        css_class: "bg-primary-300"
+        css_class: "bg-blue-500"
         css_style: ""
 ---
