@@ -85,7 +85,7 @@ sections:
   - block: testimonials
     content:
       title: "From the authors"
-      text: ""
+      #text: ""
       items:
         - name: "Hengjie Yu"
           role: "Postdoc at Westlake University"
@@ -113,6 +113,6 @@ sections:
     design:
       card:
         # Card background color (CSS class)
-        css_class: "bg-blue-500"
+        css_class: "bg-primary-500"
         css_style: ""
 ---
