@@ -18,12 +18,12 @@ sections:
         icon: rocket-launch
       secondary_action:
         text: Read the docs
-        url: https://docs.hugoblox.com
+        url: /about/
       announcement:
         text: "Pre-trained foundation model for fine-tuning"
         link:
           text: "Read more"
-          url: "/blog/"
+          url: "/model/"
     design:
       spacing:
         padding: [0, 0, 0, 0]

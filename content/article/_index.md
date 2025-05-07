@@ -1,3 +1,3 @@
 ---
-title: Article
+title: Related articles (continuously updated)
 ---
