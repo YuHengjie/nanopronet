@@ -42,11 +42,11 @@ sections:
       items:
         - statistic: "2.76M+"
           description: |
-            Nanomaterial–protein 
+            Nanomaterial–protein  
             samples
         - statistic: "33k+"
           description: |
-            Number of 
+            Number of  
             unique proteins
         - statistic: "28"
           description: |
