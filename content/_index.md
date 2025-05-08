@@ -85,7 +85,7 @@ sections:
   - block: testimonials
     content:
       title: "From the authors"
-      #text: ""
+      text: "We are thankful for the support and collaboration that made this work possible."
       items:
         - name: "Hengjie Yu"
           role: "Postdoc at Westlake University"
