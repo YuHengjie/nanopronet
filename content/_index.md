@@ -62,7 +62,7 @@ sections:
     #id: data
     content:
       title: Features
-      text: "AI at the Forefront: Empowering Nanomaterial-Protein Interaction Research 🤖"
+      text: "AI at the forefront: empowering nanomaterial-protein interaction research 🤖"
       items:
         - name: Largest public dataset
           icon: circle-stack
@@ -108,7 +108,7 @@ sections:
       title: Deploying the foundation model or fine-tuning for specific applications
       text: As easy as 1, 2, 3!
       button:
-        text: Get Started
+        text: Get started
         url: https://github.com/YuHengjie/nanopronet-public
     design:
       card:
